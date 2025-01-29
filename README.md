@@ -13,11 +13,11 @@ Thanks to :
 
 - Original script credits goes to Humanbomb. [Script](https://gist.github.com/vmichalak/7fb3084260b0bf646a36b74eff823d69)
 
-This script was made for jubeat, but you should use Meta's improved script.
+This script is outdated and should not be used; use Meta's script.
 
 - Modified version with multiple page scraping by Meta-link. [Script](https://gist.github.com/Meta-link/d01c15fc56a277becc7d67a7c1dccfa2)
 
-This script supports jubeat and MUSECA.
+This script supports jubeat, Dance Dance Revolution and MÚSECA.
 
 ## Setting up for dummies
 
